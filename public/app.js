@@ -470,8 +470,8 @@ renderOverview();
 // Disease model information
 const diseaseModels = {
   'alzheimer': {
-    modelType: 'Neural Network (TensorFlow/Keras)',
-    accuracy: '92%',
+    modelType: 'Random Forest',
+    accuracy: '85%',
     features: [
       { name: 'Age', type: 'number', description: 'Age of the patient' },
       { name: 'Gender', type: 'categorical (0: Female, 1: Male)', description: 'Biological sex' },
@@ -493,8 +493,8 @@ const diseaseModels = {
     ]
   },
   'breast_cancer': {
-    modelType: 'Support Vector Machine (SVM)',
-    accuracy: '97%',
+    modelType: 'Random Forest',
+    accuracy: '96%',
     features: [
       { name: 'radius_mean', type: 'number', description: 'Mean radius of tumor cells' },
       { name: 'texture_mean', type: 'number', description: 'Mean texture of tumor cells' },
@@ -504,8 +504,8 @@ const diseaseModels = {
     ]
   },
   'dengue': {
-    modelType: 'Gradient Boosting',
-    accuracy: '89%',
+    modelType: 'Random Forest',
+    accuracy: '99%',
     features: [
       { name: 'platelets', type: 'number (10^3 cells/μL)', description: 'Platelet count in blood' },
       { name: 'hematocrit', type: 'number (%)', description: 'Percentage of red blood cells in blood' },
@@ -516,7 +516,7 @@ const diseaseModels = {
     ]
   },
   'diabetes': {
-    modelType: 'Logistic Regression',
+    modelType: 'Random Forest',
     accuracy: '78%',
     features: [
       { name: 'Pregnancies', type: 'number', description: 'Number of pregnancies' },
@@ -549,7 +549,7 @@ const diseaseModels = {
     ]
   },
   'kidney_disease': {
-    modelType: 'XGBoost',
+    modelType: 'Random Forest',
     accuracy: '99%',
     features: [
       { name: 'age', type: 'number (years)', description: 'Age of the patient' },
@@ -595,7 +595,7 @@ const diseaseModels = {
     ]
   },
   'pneumonia': {
-    modelType: 'Convolutional Neural Network (CNN)',
+    modelType: 'Random Forest',
     accuracy: '93%',
     features: [
       { name: 'Chest X-ray', type: 'image', description: 'Chest X-ray image (JPG/PNG format)' },
@@ -607,7 +607,7 @@ const diseaseModels = {
     ]
   },
   'stroke': {
-    modelType: 'Gradient Boosting',
+    modelType: 'Random Forest',
     accuracy: '95%',
     features: [
       { name: 'gender', type: 'categorical (0: Female, 1: Male)', description: 'Biological sex' },
@@ -623,7 +623,7 @@ const diseaseModels = {
     ]
   },
   'thyroid': {
-    modelType: 'Support Vector Machine (SVM)',
+    modelType: 'Random Forest',
     accuracy: '98%',
     features: [
       { name: 'age', type: 'number (years)', description: 'Age of the patient' },

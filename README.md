@@ -32,21 +32,28 @@ Comprehensive health analysis platform with multi-disease prediction(11 diseases
 
 <img width="841" height="815" alt="image" src="https://github.com/user-attachments/assets/20e04cfa-d7c1-477a-b2db-b3f7f1825d4d" />
 
-## 🌟 Features
+## 🎯 Features
 
-### 🏥 Multi-Disease Prediction
-- **11 Disease Models**: Predict various health conditions with high accuracy
-  - Alzheimer's Disease (Neural Network, 92% accuracy)
-  - Anemia (Random Forest, 95% accuracy)
-  - Breast Cancer (SVM, 97% accuracy)
-  - Dengue (Gradient Boosting, 89% accuracy)
-  - Diabetes (Logistic Regression, 78% accuracy)
-  - Heart Disease (Random Forest, 88% accuracy)
-  - Kidney Disease (XGBoost, 99% accuracy)
-  - Liver Disease (Random Forest, 85% accuracy)
-  - Stroke (Gradient Boosting, 91% accuracy)
-  - Thyroid (SVM, 98% accuracy)
-  - Depression (Random Forest, 86% accuracy)
+### 🩺 Disease Prediction Models
+
+Each disease prediction model is trained using its own dedicated script for optimal performance. All models use scikit-learn's RandomForestClassifier with appropriate hyperparameters.
+
+| Disease | Model Type | Accuracy | Training Script |
+|---------|------------|----------|-----------------|
+| Alzheimer's Disease | Random Forest | ~85% | `train_alzheimer.py` |
+| Anemia | Random Forest | ~95% | `train_anemia.py` |
+| Breast Cancer | Random Forest | ~96% | `train_breast_cancer.py` |
+| Depression | Random Forest | ~85% | `train_depression_model.py` |
+| Diabetes | Random Forest | ~78% | `train_diabetes.py` |
+| Heart Disease | Random Forest | ~88% | `train_heart.py` |
+| Kidney Disease | Random Forest | ~90% | `train_kidney.py` |
+| Liver Disease | Random Forest | ~75% | `train_liver.py` |
+| Stroke | Random Forest | ~95% | `train_stroke.py` |
+| Thyroid | Random Forest | ~98% | `train_thyroid.py` |
+| Dengue | In Progress | - | `train_dengue.py` |
+
+*Note: Accuracies are approximate and based on test set performance. Actual performance may vary with different data distributions.*
+
 - **Real-time Analysis**: Get instant predictions with detailed results
 - **Model Transparency**: View confidence scores and contributing factors
 
@@ -80,11 +87,11 @@ Comprehensive health analysis platform with multi-disease prediction(11 diseases
 - **Node.js 16+** for server-side logic
 
 ### Machine Learning
-- **TensorFlow/Keras** for neural networks (Alzheimer's model)
-- **scikit-learn** for traditional ML models (Random Forest, SVM, etc.)
-- **XGBoost** for gradient boosting (Dengue, Stroke models)
-- **Pandas** & **NumPy** for data processing
-- **Joblib** for model serialization
+- **scikit-learn** for all machine learning models (Random Forest)
+- **Pandas** & **NumPy** for data processing and manipulation
+- **Joblib** for model serialization and loading
+- **StandardScaler** for feature scaling
+- **LabelEncoder** for categorical variable encoding
 
 ### AI Integration
 - **Gemini Flash 2.0** for chat-based assistance
@@ -162,7 +169,17 @@ DISEASEXYZ/
 │
 ├── scripts/                 # Data processing and model training
 │   ├── prepare.py           # Data cleaning and preprocessing
-│   └── train_models.py      # Model training scripts
+│   ├── train_alzheimer.py   # Alzheimer's disease model training
+│   ├── train_anemia.py      # Anemia model training
+│   ├── train_breast_cancer.py  # Breast cancer model training
+│   ├── train_dengue.py      # Dengue model training
+│   ├── train_depression_model.py  # Depression model training
+│   ├── train_diabetes.py    # Diabetes model training
+│   ├── train_heart.py       # Heart disease model training
+│   ├── train_kidney.py      # Kidney disease model training
+│   ├── train_liver.py       # Liver disease model training
+│   ├── train_stroke.py      # Stroke prediction model training
+│   └── train_thyroid.py     # Thyroid disease model training
 │
 ├── .gitignore              # Git ignore file
 ├── netlify.toml            # Netlify configuration
@@ -210,15 +227,52 @@ DISEASEXYZ/
 
 ## 🧪 Model Training
 
-To train or retrain models:
+Each disease model is trained using its own dedicated script for better maintainability and customization. Here's how to train the models:
+
+### Training Individual Models
+
+Each model can be trained independently using its specific script:
 
 ```bash
-# Navigate to the scripts directory
-cd scripts
+# Navigate to the project root directory
+cd path/to/HealthVerseAI
 
-# Run the training script
-python train_models.py
+# Train Alzheimer's model
+python train_alzheimer.py
+
+# Train Anemia model
+python train_anemia.py
+
+# Train Breast Cancer model
+python train_breast_cancer.py
+
+# Train Depression model
+python train_depression_model.py
+
+# Train Diabetes model
+python train_diabetes.py
+
+# Train Heart Disease model
+python train_heart.py
+
+# Train Kidney Disease model
+python train_kidney.py
+
+# Train Liver Disease model
+python train_liver.py
+
+# Train Stroke model
+python train_stroke.py
+
+# Train Thyroid model
+python train_thyroid.py
 ```
+
+### Training Details
+- Each training script handles its own data preprocessing, model training, and evaluation
+- Models are saved in the `models/` directory
+- Training scripts output accuracy and classification reports
+- Each script is self-contained with its own data loading and preprocessing logic
 
 ## 📝 License
 
