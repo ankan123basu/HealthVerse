@@ -243,7 +243,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/healthverse](https://github.com/yourusername/healthverse)
+Project Link: [https://github.com/ankan123basu/HealthVerseAI] (https://github.com/ankan123basu)
 
 ## 🙏 Acknowledgments
 
@@ -255,5 +255,5 @@ Project Link: [https://github.com/yourusername/healthverse](https://github.com/y
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name
+  Made with ❤️ by ANKAN BASU, LOVELY PROFESSIONAL UNIVERSITY
 </div>
