@@ -8,7 +8,27 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20Tailwind%20CSS-blueviolet)
 ![Backend](https://img.shields.io/badge/Backend-Netlify%20Functions-yellow)
 
-Comprehensive health analysis platform with multi-disease prediction, nutrition guidance, and symptom checking.
+Comprehensive health analysis platform with multi-disease prediction(11 diseases), nutrition guidance, and symptom checking and precautions
+
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/915947f0-ec04-4a4a-b35c-002cabf4d774" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/6a6a538c-c83f-4bba-a8ae-b10d2b8e50b9" />
+
+<img width="1919" height="743" alt="image" src="https://github.com/user-attachments/assets/6bf7f56d-d163-4a88-86aa-a2366dc1c97c" />
+
+<img width="1910" height="739" alt="image" src="https://github.com/user-attachments/assets/aeb64838-dc88-44c0-8aa8-1fced4e993ba" />
+
+<img width="1917" height="776" alt="image" src="https://github.com/user-attachments/assets/f2238bea-6529-4d15-aedc-1a3b3d6f3538" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/16872041-8dce-4ca3-b9b1-f104d2312b0c" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/5e37d7c4-05f0-4fc9-9cc9-e8813fd8f5f2" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/f1fd2540-4e03-4e23-a9b6-252df513cc04" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/c81de97c-7404-4af6-8f4d-f8d8f3d4f5a2" />
+
+<img width="841" height="815" alt="image" src="https://github.com/user-attachments/assets/20e04cfa-d7c1-477a-b2db-b3f7f1825d4d" />
 
 ## 🌟 Features
 
