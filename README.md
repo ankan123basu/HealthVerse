@@ -24,6 +24,8 @@ Comprehensive health analysis platform with multi-disease prediction(11 diseases
 
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/5e37d7c4-05f0-4fc9-9cc9-e8813fd8f5f2" />
 
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/bf073ee3-9cd3-4d90-b437-9ac1cb66cb90" />
+
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/f1fd2540-4e03-4e23-a9b6-252df513cc04" />
 
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/c81de97c-7404-4af6-8f4d-f8d8f3d4f5a2" />
