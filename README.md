@@ -1,4 +1,4 @@
-# 🎮 HealthVerse: Retro-Themed AI Health Companion
+# HealthVerse : AI Health Companion with multi-disease prediction(11 diseases), nutrition guidance, and symptom checking and precautions
 
 [![MIT License](https://img.shields.io/badge/License-MIT-8A2BE2.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -6,40 +6,48 @@
 [![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://healthverse-ai.netlify.app)
 
 > **⚠️ RETRO THEME ACTIVATED**  
-> Experience the nostalgia of retro gaming with our pixel-perfect health companion! 🎮
+> Experience the nostalgia of retro UI with our pixel-perfect health companion! 
 
 ![HealthVerse Banner](https://img.shields.io/badge/HEALTHVERSE-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white)
-🎮 Retro-Themed AI-Powered Health Companion 🕹️
+  Retro-Themed AI-Powered Health Companion
 
 ![ML](https://img.shields.io/badge/ML-TensorFlow%20%7C%20scikit--learn-orange)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20Tailwind%20CSS-blueviolet)
 ![Backend](https://img.shields.io/badge/Backend-Netlify%20Functions-yellow)
 
-Comprehensive health analysis platform with multi-disease prediction(11 diseases), nutrition guidance, and symptom checking and precautions
+An all-in-one health analysis platform offering multi-disease prediction (11+ conditions), personalized nutrition guidance, and symptom checking with precautionary insights for over 60 diseases."
 
-<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/915947f0-ec04-4a4a-b35c-002cabf4d774" />
+<img width="1919" height="906" alt="Screenshot 2025-07-29 005656" src="https://github.com/user-attachments/assets/92b884be-7e5d-4675-a740-75ca6625e152" />
 
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/6a6a538c-c83f-4bba-a8ae-b10d2b8e50b9" />
+<img width="1919" height="912" alt="Screenshot 2025-07-29 011454" src="https://github.com/user-attachments/assets/0d68f15a-c507-487e-b1d8-a3cf33dd9166" />
 
-<img width="1919" height="743" alt="image" src="https://github.com/user-attachments/assets/6bf7f56d-d163-4a88-86aa-a2366dc1c97c" />
+<img width="1919" height="912" alt="Screenshot 2025-07-29 012201" src="https://github.com/user-attachments/assets/0d131d27-2228-418b-8bf4-19695fb7672f" />
 
-<img width="1910" height="739" alt="image" src="https://github.com/user-attachments/assets/aeb64838-dc88-44c0-8aa8-1fced4e993ba" />
+<img width="1919" height="916" alt="Screenshot 2025-07-29 012231" src="https://github.com/user-attachments/assets/85604e60-b169-467c-a9c1-1290d1cc3e69" />
 
-<img width="1917" height="776" alt="image" src="https://github.com/user-attachments/assets/f2238bea-6529-4d15-aedc-1a3b3d6f3538" />
+<img width="1919" height="907" alt="Screenshot 2025-07-29 012318" src="https://github.com/user-attachments/assets/ddeb76b7-995a-492e-9f3c-c8bdf086b711" />
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/16872041-8dce-4ca3-b9b1-f104d2312b0c" />
+<img width="1919" height="800" alt="Screenshot 2025-07-29 012510" src="https://github.com/user-attachments/assets/3ef684dd-7331-465c-9bb3-7a9daa951d73" />
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/5e37d7c4-05f0-4fc9-9cc9-e8813fd8f5f2" />
+<img width="1919" height="782" alt="Screenshot 2025-07-29 012519" src="https://github.com/user-attachments/assets/9b73438a-6fdd-4c36-a5d6-2115327b3dac" />
 
-<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/bf073ee3-9cd3-4d90-b437-9ac1cb66cb90" />
+<img width="1919" height="841" alt="Screenshot 2025-07-29 012549" src="https://github.com/user-attachments/assets/cedcb7a0-fdfd-4c5d-a141-ce72966a237c" />
 
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/f1fd2540-4e03-4e23-a9b6-252df513cc04" />
+<img width="1919" height="837" alt="Screenshot 2025-07-29 015129" src="https://github.com/user-attachments/assets/7bc2994c-b668-4b6c-9aff-f9bd0b3190ff" />
 
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/c81de97c-7404-4af6-8f4d-f8d8f3d4f5a2" />
+<img width="1919" height="879" alt="Screenshot 2025-07-29 015142" src="https://github.com/user-attachments/assets/d0514266-537b-45b4-9610-f482dd16e57d" />
 
-<img width="841" height="815" alt="image" src="https://github.com/user-attachments/assets/20e04cfa-d7c1-477a-b2db-b3f7f1825d4d" />
+<img width="1919" height="901" alt="Screenshot 2025-07-29 015154" src="https://github.com/user-attachments/assets/f52a0ece-2862-4e6a-8733-b73f797e9fbb" />
 
-## 🕹️ Why HealthVerse? The Problem We Solve
+<img width="1919" height="921" alt="Screenshot 2025-07-29 015206" src="https://github.com/user-attachments/assets/6704ad8a-e142-45fd-9202-cbfd9ac298fc" />
+
+<img width="1919" height="865" alt="Screenshot 2025-07-29 015255" src="https://github.com/user-attachments/assets/3c48896c-c748-4a87-896b-6dadb1db74b0" />
+
+<img width="1919" height="906" alt="Screenshot 2025-07-29 015319" src="https://github.com/user-attachments/assets/cfc01eca-0c0d-49da-a99a-eeae6101ca24" />
+
+<img width="1919" height="918" alt="Screenshot 2025-07-29 015459" src="https://github.com/user-attachments/assets/0005f74a-996e-44dc-90f9-4678bfc86a09" />
+
+## Why HealthVerse? The Problem We Solve
 
 In today's fast-paced world, access to reliable health information is often buried under complex medical jargon or hidden behind paywalls. Many people experience health concerns but hesitate to seek immediate medical attention due to various barriers. HealthVerse bridges this gap by providing:
 
@@ -58,17 +66,17 @@ Each disease prediction model is trained using its own dedicated script for opti
 
 | Disease | Model Type | Accuracy | Training Script |
 |---------|------------|----------|-----------------|
-| Alzheimer's Disease | Random Forest | ~85% | `train_alzheimer.py` |
+| Alzheimer's Disease | Random Forest | ~95% | `train_alzheimer.py` |
 | Anemia | Random Forest | ~95% | `train_anemia.py` |
 | Breast Cancer | Random Forest | ~96% | `train_breast_cancer.py` |
-| Depression | Random Forest | ~85% | `train_depression_model.py` |
-| Diabetes | Random Forest | ~78% | `train_diabetes.py` |
-| Heart Disease | Random Forest | ~88% | `train_heart.py` |
-| Kidney Disease | Random Forest | ~90% | `train_kidney.py` |
-| Liver Disease | Random Forest | ~75% | `train_liver.py` |
+| Depression | Random Forest | ~89% | `train_depression_model.py` |
+| Diabetes | Random Forest | ~93% | `train_diabetes.py` |
+| Heart Disease | Random Forest | ~97% | `train_heart.py` |
+| Kidney Disease | Random Forest | ~94% | `train_kidney.py` |
+| Liver Disease | Random Forest | ~96% | `train_liver.py` |
 | Stroke | Random Forest | ~95% | `train_stroke.py` |
 | Thyroid | Random Forest | ~98% | `train_thyroid.py` |
-| Dengue | In Progress | - | `train_dengue.py` |
+| Dengue | In Progress | ~95 | `train_dengue.py` |
 
 *Note: Accuracies are approximate and based on test set performance. Actual performance may vary with different data distributions.*
 
@@ -78,7 +86,6 @@ Each disease prediction model is trained using its own dedicated script for opti
 ### 🤖 AI Chat Assistants
 - **Nutri-Bot**: Personalized nutrition and diet recommendations
 - **Symptom Checker**: AI-powered preliminary health assessment
-- **Context-Aware**: Maintains conversation context for better assistance
 
 ### 📱 Modern & Responsive UI
 - **Mobile-First Design**: Works seamlessly on all devices
@@ -94,7 +101,6 @@ Each disease prediction model is trained using its own dedicated script for opti
 ## 🎮 Retro UI/UX Features
 
 - **Pixel-Perfect Design**: Nostalgic pixel art interface with smooth animations
-- **8-Bit Sound Effects**: Classic sound feedback for interactions
 - **Responsive Layout**: Works on all devices from retro to modern
 - **Dark Mode**: Eye-friendly interface for extended use
 
@@ -112,7 +118,7 @@ Each disease prediction model is trained using its own dedicated script for opti
 - **Node.js 16+** for server-side logic
 
 ### Machine Learning
-- **scikit-learn** for all machine learning models (Random Forest)
+- **scikit-learn** for all machine learning models (Random Forest)**
 - **Pandas** & **NumPy** for data processing and manipulation
 - **Joblib** for model serialization and loading
 - **StandardScaler** for feature scaling
@@ -120,13 +126,12 @@ Each disease prediction model is trained using its own dedicated script for opti
 
 ### AI Integration
 - **Gemini Flash 2.0** for chat-based assistance
-- **Context-aware** conversation handling
 - **Multi-turn** dialogue support
 
 ### Development Tools
 - **Git** for version control
 - **Netlify CLI** for local development
-- **Visual Studio Code** (recommended IDE)
+- **Visual Studio Code**
 
 ## 📁 Project Structure
 
@@ -324,7 +329,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Contact
 
-Project Link: [https://github.com/ankan123basu/HealthVerseAI] (https://github.com/ankan123basu)
+Project Link: [https://github.com/ankan123basu/HealthVerseAI] 
+MY GITHUB : (https://github.com/ankan123basu)
 
 ## 🙏 Acknowledgments
 
