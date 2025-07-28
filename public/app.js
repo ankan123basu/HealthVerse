@@ -27,7 +27,7 @@ function renderOverview() {
         <li><span class="font-medium">Disease Prediction:</span> Advanced ML models for accurate prediction of 10+ diseases</li>
         <li><span class="font-medium">Nutri-Guide:</span> AI-powered nutritionist for personalized diet and wellness advice</li>
         <li><span class="font-medium">Symptom Analysis:</span> Intelligent symptom checker with precautionary guidance</li>
-        <li><span class="font-medium">Comprehensive Database:</span> Precautions and care information for 50+ diseases and conditions</li>
+        <li><span class="font-medium">Comprehensive Database:</span> Precautions and care information for 70+ diseases and conditions</li>
         <li><span class="font-medium">User-Friendly Interface:</span> Clean, intuitive design for seamless user experience</li>
       </ul>
       
@@ -41,7 +41,7 @@ function renderOverview() {
       <h2 class="text-xl font-bold mb-2 text-pink-700">Quick Navigation Guide</h2>
       <ul class="list-none space-y-2">
         <li><b>🏠 Overview:</b> Start here</li>
-        <li><b>🧬 Disease Predictor:</b> Predict diseases using AI</li>
+        <li><b>🧬 Disease Predictor:</b> Predict diseases using ML</li>
         <li><b>🥗 Nutri Chatbot:</b> Get nutrition advice</li>
         <li><b>🤖 Symptoms Chatbot:</b> Analyze your symptoms</li>
         <li><b>🛡️ Precautions:</b> Get prevention tips for any disease</li>
@@ -471,7 +471,7 @@ renderOverview();
 const diseaseModels = {
   'alzheimer': {
     modelType: 'Random Forest',
-    accuracy: '85%',
+    accuracy: '95%',
     features: [
       { name: 'Age', type: 'number', description: 'Age of the patient' },
       { name: 'Gender', type: 'categorical (0: Female, 1: Male)', description: 'Biological sex' },
@@ -517,7 +517,7 @@ const diseaseModels = {
   },
   'diabetes': {
     modelType: 'Random Forest',
-    accuracy: '78%',
+    accuracy: '96%',
     features: [
       { name: 'Pregnancies', type: 'number', description: 'Number of pregnancies' },
       { name: 'Glucose', type: 'number (mg/dL)', description: 'Plasma glucose concentration' },
