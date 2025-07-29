@@ -23,11 +23,12 @@ An all-in-one health analysis platform offering multi-disease prediction (11+ co
 
 <img width="1919" height="912" alt="Screenshot 2025-07-29 011454" src="https://github.com/user-attachments/assets/0d68f15a-c507-487e-b1d8-a3cf33dd9166" />
 
-<img width="1919" height="912" alt="Screenshot 2025-07-29 012201" src="https://github.com/user-attachments/assets/0d131d27-2228-418b-8bf4-19695fb7672f" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/2777d482-d14f-4af9-b02c-3ac64c694243" />
 
-<img width="1919" height="916" alt="Screenshot 2025-07-29 012231" src="https://github.com/user-attachments/assets/85604e60-b169-467c-a9c1-1290d1cc3e69" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/18206aec-f4d6-47e0-950d-c8b8e6aaa092" />
 
-<img width="1919" height="907" alt="Screenshot 2025-07-29 012318" src="https://github.com/user-attachments/assets/ddeb76b7-995a-492e-9f3c-c8bdf086b711" />
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/bb932e37-cad5-4dca-a85c-cd23c92570fa" />
+
 
 <img width="1919" height="800" alt="Screenshot 2025-07-29 012510" src="https://github.com/user-attachments/assets/3ef684dd-7331-465c-9bb3-7a9daa951d73" />
 
@@ -45,9 +46,11 @@ An all-in-one health analysis platform offering multi-disease prediction (11+ co
 
 <img width="1919" height="865" alt="Screenshot 2025-07-29 015255" src="https://github.com/user-attachments/assets/3c48896c-c748-4a87-896b-6dadb1db74b0" />
 
-<img width="1919" height="906" alt="Screenshot 2025-07-29 015319" src="https://github.com/user-attachments/assets/cfc01eca-0c0d-49da-a99a-eeae6101ca24" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/6e8929ea-f55c-471f-bec9-a4c640d63e8b" />
 
-<img width="1919" height="918" alt="Screenshot 2025-07-29 015459" src="https://github.com/user-attachments/assets/0005f74a-996e-44dc-90f9-4678bfc86a09" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/617107c5-f79f-4061-a9f2-774af7fede11" />
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/33ec0787-9bff-446a-9b36-fa63d1e746e8" />
 
 ## 🎯 Why HealthVerse? Bridging the Gap in Healthcare Access
 
