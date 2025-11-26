@@ -369,8 +369,12 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Contact
 
-Project Link: [https://github.com/ankan123basu/HealthVerseAI] 
-MY GITHUB : (https://github.com/ankan123basu)
+**Project Link:**  
+https://github.com/ankan123basu/HealthVerseAI  
+
+**GitHub Profiles:**  
+- https://github.com/ankan123basu  
+- https://github.com/Ankit-Basu
 
 ## 🙏 Acknowledgments
 
@@ -382,5 +386,7 @@ MY GITHUB : (https://github.com/ankan123basu)
 ---
 
 <div align="center">
-  Made with ❤️ by ANKAN BASU, LOVELY PROFESSIONAL UNIVERSITY
+  Made with ❤️ by <b>ANKAN BASU</b> & <b>ANKIT BASU</b><br/>
+  <i>Lovely Professional University</i>
 </div>
+
